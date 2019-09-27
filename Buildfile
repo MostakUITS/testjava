@@ -1,1 +1,1 @@
-build: gradle build
+build: mvn clean install -DskipTests
